@@ -1,0 +1,13 @@
+{
+  "title": "Your Name",
+  "description": "Essays and notes by Your Name",
+  "url": "https://cindyliangyy.github.io",
+  "author": "Your Name",
+  "postsPerPage": 10,
+  "subscribeUrl": "https://buttondown.com/yourname",
+  "socialLabel": "Follow @yourhandle",
+  "socialUrl": "https://x.com/yourhandle",
+  "blogroll": [
+    { "label": "About", "url": "/about-me/" }
+  ]
+}
